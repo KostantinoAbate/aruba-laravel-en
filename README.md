@@ -53,7 +53,7 @@ APP_ENV=production
 
 The `APP_DEBUG` variable, which defaults to `true`, should be set to `false`.
 
-Quindi
+So
 
 ```dotenv
 APP_DEBUG=false
